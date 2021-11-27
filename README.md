@@ -15,7 +15,7 @@ I love dogs &amp; spending time with family. :heart:
 
 ## What I do
 
-- [SiegeGG][siegegg]: the HLTV for Rainbow Six Esport with coverage and statistics
+- [SiegeGG][siegegg]: the HLTV for Rainbow Six Esports with coverage and statistics
 - [gitlab-feature][gl-feature]: GitLab feature flags in Laravel
 - [dockerfile-yml][dockerfile-yml]: Use YAML to build a valid `Dockerfile`
 

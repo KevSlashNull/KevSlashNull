@@ -26,3 +26,13 @@ I love dogs &amp; spending time with family. :heart:
 
 - 🐦 [my twitter](https://twitter.com/kevslashnull/)
 - 📝 [my weblog](https://log.kevslash.dev/)
+
+## Who I listen to
+
+Here are a few artists I listen to a lot at the moment:
+
+- [347aiden](https://genius.com/artists/347aidan)
+- [Darin](https://genius.com/artists/Darin)
+- [Of Monsters and Men](https://genius.com/artists/Of-monsters-and-men)
+- [Aurora](https://genius.com/artists/Aurora)
+- [The Oh Hellos](https://genius.com/artists/The-oh-hellos)

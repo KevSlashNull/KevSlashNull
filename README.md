@@ -17,7 +17,7 @@ I love dogs & spending time with family. ❤
 ## Where to find me
 
 - 🐦 [my twitter](https://twitter.com/kevslashnull/)
-- 📝 [my weblog](https://log.kevslash.dev/)
+- 📝 [my weblog](https://codingpa.ws/)
 
 ## What I listen to
 

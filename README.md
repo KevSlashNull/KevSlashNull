@@ -2,7 +2,7 @@
 
 At day, I work on [SiegeGG](https://siege.gg/)—an esports media company a group of esports enthuisasts, including me, built and sold to [Gfinity](https://www.gfinityplc.com/).
 
-At night, I enjoy contributing to open-source projects, such as [furryli.st](https://about.gitlab.com/) 🐕, or previously [GitLab](https://about.gitlab.com) 🦊 with [240+ MRs merged](https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/#mvp).
+At night, I enjoy contributing to open-source projects, such as [furryli.st](https://github.com/strideynet/bsky-furry-feed) 🐕, or previously [GitLab](https://about.gitlab.com) 🦊 with [240+ MRs merged](https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/#mvp).
 
 I love dogs & spending time with family. ❤
 

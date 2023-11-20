@@ -26,6 +26,7 @@ I enjoy designing and building software products that are meaning- and useful to
 Here are a few artists I listen to a lot at the moment:
 
 - [Ren](https://genius.com/artists/Ren)
+- [Grandson](https://genius.com/artists/Grandson)
 - [347aiden](https://genius.com/artists/347aidan)
 - [David Kushner](https://genius.com/artists/David-kushner)
 - [Of Monsters and Men](https://genius.com/artists/Of-monsters-and-men)

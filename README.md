@@ -2,7 +2,7 @@
 
 At day, I work on [SiegeGG](https://siege.gg/)—an esports media company a group of esports enthuisasts, including me, built and sold to [Gfinity](https://www.gfinityplc.com/).
 
-At night, I enjoy contributing to open-source projects, such as [furryli.st](https://github.com/strideynet/bsky-furry-feed) 🐕, or previously [GitLab](https://about.gitlab.com) 🦊 with [240+ MRs merged](https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/#mvp).
+At night, I enjoy contributing to open-source projects, such as [furryli.st](https://github.com/strideynet/bsky-furry-feed) 🐕 or [GitLab](https://about.gitlab.com) 🦊 with [240+ MRs merged](https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/#mvp).
 
 I enjoy designing and building software products that are meaning- and useful to the world — all with a passion for engineering productivity, no-bullshit business practices, and spending time with the people I love. 🧡
 
@@ -11,6 +11,7 @@ I enjoy designing and building software products that are meaning- and useful to
 ## What I do
 
 - [SiegeGG](https://siege.gg/): the HLTV for Rainbow Six Esports with coverage and statistics
+- [🦊📦 foxbox](https://github.com/codingpa-ws/foxbox2): educational rootless process isolation (aka. container) runtime
 - Pwurple: live-streaming revenue & chat analytics
 - [gitlab-feature](https://gitlab.com/codingpaws/gitlab-feature): GitLab feature flags in Laravel
 - [dockerfile-yml](https://gitlab.com/codingpaws/dockerfile-yml): use YAML to build a valid `Dockerfile`

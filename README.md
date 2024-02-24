@@ -11,7 +11,7 @@ I enjoy designing and building software products that are meaning- and useful to
 ## What I do
 
 - [SiegeGG](https://siege.gg/): the HLTV for Rainbow Six Esports with coverage and statistics
-- [🦊📦 foxbox](https://github.com/codingpa-ws/foxbox2): educational rootless process isolation (aka. container) runtime
+- [🦊📦 foxbox](https://github.com/codingpa-ws/foxbox): educational rootless process isolation (aka. container) runtime
 - Pwurple: live-streaming revenue & chat analytics
 - [gitlab-feature](https://gitlab.com/codingpaws/gitlab-feature): GitLab feature flags in Laravel
 - [dockerfile-yml](https://gitlab.com/codingpaws/dockerfile-yml): use YAML to build a valid `Dockerfile`

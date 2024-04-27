@@ -19,6 +19,8 @@ I enjoy designing and building software products that are meaning- and useful to
 - 🟦 [my bluesky](https://bsky.app/profile/woof.bsky.social)
 - 🗨 [my discord](https://discord.com/users/216472541148086272) (`kev.dog`)
 - 🐦 [my twitter](https://twitter.com/kevslashnull/)
+- 🦊 [my gitlab](https://gitlab.com/KevSlashNull)
+- 🐙 [my github](https://github.com/KevSlashNull)
 
 ## Who I listen to
 

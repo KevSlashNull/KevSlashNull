@@ -24,12 +24,12 @@ I enjoy designing and building software products that are meaning- and useful to
 
 Here are a few artists I listen to a lot at the moment:
 
-- [Ren](https://genius.com/artists/Ren)
-- [Grandson](https://genius.com/artists/Grandson)
-- [347aiden](https://genius.com/artists/347aidan)
+- [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
+- [Arden Jones](https://genius.com/artists/Arden-jones)
 - [David Kushner](https://genius.com/artists/David-kushner)
-- [Of Monsters and Men](https://genius.com/artists/Of-monsters-and-men)
-- [The Oh Hellos](https://genius.com/artists/The-oh-hellos)
+- [Grandson](https://genius.com/artists/Grandson)
+- [Ren](https://genius.com/artists/Ren)
+- [347aiden](https://genius.com/artists/347aidan)
 
 <!--
 **KevSlashNull/KevSlashNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

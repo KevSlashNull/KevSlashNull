@@ -20,7 +20,7 @@ I enjoy designing and building software products that are meaning- and useful to
 - 🗨 [my discord](https://discord.com/users/216472541148086272) (`kev.dog`)
 - 🐦 [my twitter](https://twitter.com/kevslashnull/)
 
-## What I listen to
+## Who I listen to
 
 Here are a few artists I listen to a lot at the moment:
 

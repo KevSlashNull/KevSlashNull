@@ -1,12 +1,14 @@
 # Hi, I’m Kev. 👋
 
-At day, I work on [SiegeGG](https://siege.gg/)—an esports media company a group of esports enthuisasts, including me, built and sold to [Gfinity](https://www.gfinityplc.com/).
+At day, I work as Frontend Engineer in [GitLab](https://about.gitlab.com)’s Engineering Productivity team!
 
-At night, I enjoy contributing to open-source projects, such as [furryli.st](https://github.com/strideynet/bsky-furry-feed) 🐕 or [GitLab](https://about.gitlab.com) 🦊 with [240+ MRs merged](https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/#mvp).
+At night, I like contributing to open-source projects, such as [furryli.st](https://github.com/strideynet/bsky-furry-feed) 🐕 or my projects over at [codingpaws](https://gitlab.com/codingpaws) 🐾, listen to music, or playing video games with friends.
 
 I enjoy designing and building software products that are meaning- and useful to the world — all with a passion for engineering productivity, no-bullshit business practices, and spending time with the people I love. 🧡
 
 > i always like walking in the rain, so no one can see me crying — c. chaplin.
+
+###### (Note that this is my private account.)
 
 ## What I do
 

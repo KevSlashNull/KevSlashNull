@@ -1,2 +1,2 @@
 #!/bin/sh
-sed '/<!--private-->/,/<!--\/private-->/d' README.md | sed -E 's/<!--work:((.|\n)+)-->/\1/gm'
+sed '/<!--private-->/,/<!--\/private-->/d' README.md | sed -E 's/<!--work:|\/work-->//g'

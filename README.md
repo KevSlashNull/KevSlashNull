@@ -45,7 +45,7 @@ Here are a few artists I listen to a lot at the moment:
 <!--work:
 
 ---
-This file is generated from my private repo at [KevSlashNull/KevSlashNull](https://gitlab.com/KevSlashNull/KevSlashNull), which has more
+Note: This file is auto-generated from my private repo at [KevSlashNull/KevSlashNull](https://gitlab.com/KevSlashNull/KevSlashNull).
 /work-->
 
 <!--

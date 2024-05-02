@@ -3,7 +3,7 @@ update-work:
     - git config user.email $GITLAB_USER_EMAIL
     - git config user.name 'Kev'
     - git clone https://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.com/kkloss/kkloss.git
-    - ./cmd/generate-work-readme.md > kkloss/README.md
+    - ./cmd/generate-work-readme.sh > kkloss/README.md
     - cd kkloss
     - git commit -m 'Update README.md from KevSlashNull/KevSlashNull'
-    - git push
+    - git push -o ci.skip

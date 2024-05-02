@@ -5,6 +5,7 @@ update-work-readme:
     - git clone https://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.com/kkloss/kkloss.git
     - ./cmd/generate-work-readme.sh > kkloss/README.md
     - cd kkloss
+    - git add README.md
     - git commit -m 'Update README.md from KevSlashNull/KevSlashNull'
     - git push -o ci.skip
   only: [main]

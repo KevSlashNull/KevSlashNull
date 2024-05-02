@@ -2,7 +2,7 @@ update-work-readme:
   script:
     - git config --global user.email $GITLAB_USER_EMAIL
     - git config --global user.name 'Kev'
-    - git clone https://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.com/kkloss/kkloss.git
+    - git clone https://gitlab-ci-token:${KEV_WORK_TOKEN}@gitlab.com/kkloss/kkloss.git
     - ./cmd/generate-work-readme.sh > kkloss/README.md
     - cd kkloss
     - git add README.md

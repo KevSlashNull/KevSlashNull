@@ -14,7 +14,7 @@ I enjoy designing and building software products that are meaning- and useful to
 
 <!--/private-->
 
-## What I do <!--work:outside of work-->
+## What I do <!--work:outside of work/work-->
 
 - [🟣 Pwurple](https://gitlab.com/codingpaws/pwurple/): live-streaming revenue & chat analytics
 - [🦊📦 foxbox](https://github.com/codingpa-ws/foxbox): educational rootless process isolation (aka. container) runtime
@@ -41,6 +41,12 @@ Here are a few artists I listen to a lot at the moment:
 - [Grandson](https://genius.com/artists/Grandson)
 - [Ren](https://genius.com/artists/Ren)
 - [347aiden](https://genius.com/artists/347aidan)
+
+<!--work:
+
+---
+This file is generated from my private repo at [KevSlashNull/KevSlashNull](https://gitlab.com/KevSlashNull/KevSlashNull), which has more
+/work-->
 
 <!--
 **KevSlashNull/KevSlashNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

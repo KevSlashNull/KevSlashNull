@@ -6,15 +6,15 @@ At night, I like contributing to open-source projects, such as [furryli.st](http
 
 I enjoy designing and building software products that are meaning- and useful to the world — all with a passion for engineering productivity, no-bullshit business practices, and spending time with the people I love. 🧡
 
-> i always like walking in the rain, so no one can see me crying — c. chaplin.
-
 <!--private-->
+
+> i always like walking in the rain, so no one can see me crying — c. chaplin.
 
 ###### (Note that this is my private account.)
 
 <!--/private-->
 
-## What I do
+## What I do <!--work:outside of work-->
 
 - [🟣 Pwurple](https://gitlab.com/codingpaws/pwurple/): live-streaming revenue & chat analytics
 - [🦊📦 foxbox](https://github.com/codingpa-ws/foxbox): educational rootless process isolation (aka. container) runtime
@@ -22,7 +22,10 @@ I enjoy designing and building software products that are meaning- and useful to
 
 ## Where to find me
 
+<!--private-->
+
 - 🟦 [my bluesky](https://bsky.app/profile/woof.bsky.social)
+<!--/private-->
 - 🗨 [my discord](https://discord.com/users/216472541148086272) (`kev.dog`)
 - 🐦 [my twitter](https://twitter.com/kevslashnull/)
 - 🦊 [my gitlab](https://gitlab.com/KevSlashNull)

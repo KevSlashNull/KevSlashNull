@@ -1,0 +1,9 @@
+update-work:
+  script:
+    - git config user.email $GITLAB_USER_EMAIL
+    - git config user.name 'Kev'
+    - git clone git@gitlab.com:kkloss/kkloss.git
+    - ./cmd/generate-work-readme.md > kkloss/README.md
+    - cd kkloss
+    - git commit -m 'Update README.md from KevSlashNull/KevSlashNull'
+    - git push

@@ -8,7 +8,11 @@ I enjoy designing and building software products that are meaning- and useful to
 
 > i always like walking in the rain, so no one can see me crying — c. chaplin.
 
+<!--private-->
+
 ###### (Note that this is my private account.)
+
+<!--/private-->
 
 ## What I do
 

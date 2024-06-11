@@ -8,14 +8,14 @@ update-work-readme:
     - git add README.md
     - git commit -m 'Update README.md from KevSlashNull/KevSlashNull' || (echo 'Couldn’t commit' && exit 69)
     - git push -o ci.skip
+  allow_failure:
+    exit_codes: 69
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
       changes:
         - README.md
         - cmd/*.sh
         - .gitlab-ci.yml
-      allow_failure:
-        exit_codes: 69
 
 work-readme-test:
   rules:

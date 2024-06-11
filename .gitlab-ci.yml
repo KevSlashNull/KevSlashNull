@@ -6,6 +6,20 @@ update-work-readme:
     - ./cmd/generate-work-readme.sh > kkloss/README.md
     - cd kkloss
     - git add README.md
-    - git commit -m 'Update README.md from KevSlashNull/KevSlashNull'
+    - git commit -m 'Update README.md from KevSlashNull/KevSlashNull' || (echo 'Couldn’t commit' && exit 69)
     - git push -o ci.skip
-  only: [main]
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      changes:
+        - README.md
+        - cmd/*.sh
+        - .gitlab-ci.yml
+      allow_failure:
+        exit_codes: 69
+
+work-readme-test:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+  script:
+    - ./cmd/generate-work-readme.sh
+    

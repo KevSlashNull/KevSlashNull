@@ -6,7 +6,7 @@ update-work-readme:
     - ./cmd/generate-work-readme.sh > kkloss/README.md
     - cd kkloss
     - git add README.md
-    - git commit -m 'Update README.md from KevSlashNull/KevSlashNull' || (echo 'Couldn’t commit' && exit 69)
+    - git commit -m 'Update README.md from KevSlashNull/KevSlashNull' || (echo 'Couldn’t commit'; exit 69)
     - git push -o ci.skip
   allow_failure:
     exit_codes: 69

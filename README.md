@@ -24,7 +24,7 @@ I enjoy designing and building software products that are meaning- and useful to
 
 <!--private-->
 
-- 🟦 [my bluesky](https://bsky.app/profile/woof.bsky.social)
+- 🦋 [my bluesky](https://bsky.app/profile/woof.bsky.social)
 <!--/private-->
 - 🐾 [my weblog](https://codingpa.ws)
 - 🗨 [my discord](https://discord.com/users/216472541148086272) (`kev.dog`)

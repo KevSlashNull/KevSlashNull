@@ -1,6 +1,6 @@
 # Hi, I’m Kev. 👋
 
-At day, I work as Frontend Engineer in [GitLab](https://about.gitlab.com)’s Engineering Productivity team!
+At day, I work in Developer Experience at [GitLab](https://about.gitlab.com), focusing on (frontend) tooling! I’m a maintainer of the [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit), used by everyone to contribute code to GitLab, and of our [CI/CD pipeline configuration](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/ci).
 
 At night, I like contributing to open-source projects, such as [furryli.st](https://github.com/strideynet/bsky-furry-feed) 🐕 or my projects over at [codingpaws](https://gitlab.com/codingpaws) 🐾, listening to music, or playing video games with friends.
 

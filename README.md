@@ -31,7 +31,7 @@ I enjoy designing and building software products that are meaning- and useful to
 - 🐦 [my twitter](https://twitter.com/kevslashnull/)
 - 🦊 [my gitlab](https://gitlab.com/KevSlashNull)
 - 🐙 [my github](https://github.com/KevSlashNull)
-<!--work:- 👔 [my linkedin](https://www.linkedin.com/in/kev-k/)-->
+<!--work:- 👔 [my linkedin](https://www.linkedin.com/in/kev-k/)/work-->
 
 ## Who I listen to
 

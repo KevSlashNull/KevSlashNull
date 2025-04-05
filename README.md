@@ -37,12 +37,12 @@ I enjoy designing and building software products that are meaning- and useful to
 
 Here are a few artists I listen to a lot at the moment:
 
-- [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
 - [Arden Jones](https://genius.com/artists/Arden-jones)
-- [David Kushner](https://genius.com/artists/David-kushner)
+- [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
+- [Dermot Kennedy](https://genius.com/artists/Dermot-kennedy)
 - [Grandson](https://genius.com/artists/Grandson)
 - [Ren](https://genius.com/artists/Ren)
-- [347aiden](https://genius.com/artists/347aidan)
+- [Yu](https://genius.com/artists/Yu)
 
 <!--work:
 

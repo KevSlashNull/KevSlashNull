@@ -22,10 +22,7 @@ I enjoy designing and building software products that are meaning- and useful to
 
 ## Where to find me
 
-<!--private-->
-
-- 🦋 [my bluesky](https://bsky.app/profile/woof.bsky.social)
-<!--/private-->
+- 🦋 [my bluesky](https://bsky.app/profile/codingpa.ws)
 - 🐾 [my weblog](https://codingpa.ws)
 - 🗨 [my discord](https://discord.com/users/216472541148086272) (`kev.dog`)
 - 🐦 [my twitter](https://twitter.com/kevslashnull/)

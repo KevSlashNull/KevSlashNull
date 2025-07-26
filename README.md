@@ -10,7 +10,7 @@ I enjoy designing and building software that is meaning- and useful to the world
 
 > i always like walking in the rain, so no one can see me crying — c. chaplin.
 
-###### (Note that this is my private account.)
+###### (Note that this is my personal account.)
 
 <!--/private-->
 

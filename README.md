@@ -34,12 +34,12 @@ I enjoy designing and building software that is meaning- and useful to the world
 
 Here are a few artists I listen to a lot at the moment:
 
-- [Arden Jones](https://genius.com/artists/Arden-jones)
-- [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
-- [Dermot Kennedy](https://genius.com/artists/Dermot-kennedy)
-- [Grandson](https://genius.com/artists/Grandson)
 - [Ren](https://genius.com/artists/Ren)
-- [Yu](https://genius.com/artists/Yu)
+- [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
+- [Grandson](https://genius.com/artists/Grandson)
+- [Arden Jones](https://genius.com/artists/Arden-jones)
+- [Dermot Kennedy](https://genius.com/artists/Dermot-kennedy)
+- [One Hope](https://genius.com/artists/One-hope)
 
 <!--work:
 

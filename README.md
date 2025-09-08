@@ -1,6 +1,6 @@
 # Hi, I’m Kev. 👋
 
-At day, I work in Developer Experience at [GitLab](https://about.gitlab.com), building tools to help engineers ship better features faster! My team maintains the [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit), used by everyone to contribute code to the GitLab monolith.
+At day, I improve the Developer Experience at [GitLab](https://about.gitlab.com), building tools to help devs ship better features faster! My team makes our [development kit](https://gitlab.com/gitlab-org/gitlab-development-kit), used by everyone to contribute code to the GitLab monolith.
 
 At night, I like contributing to open-source projects, such as [furryli.st](https://github.com/strideynet/bsky-furry-feed) 🐕 or my projects over at [codingpaws](https://gitlab.com/codingpaws) 🐾, listening to music, or playing video games with friends.
 

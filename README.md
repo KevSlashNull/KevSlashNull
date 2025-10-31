@@ -16,9 +16,8 @@ I enjoy designing and building software that is meaning- and useful to the world
 
 ## What I do <!--work:outside of work/work-->
 
-- [🟣 Pwurple](https://gitlab.com/codingpaws/pwurple/): live-streaming revenue & chat analytics
-- [🦊📦 foxbox](https://github.com/codingpa-ws/foxbox): educational rootless process isolation (aka. container) runtime
 - [🐕 furryli.st](https://github.com/strideynet/bsky-furry-feed): bluesky custom feeds for furries
+- [🟣 pwurple.app](https://gitlab.com/codingpaws/pwurple/): live-streaming revenue & chat analytics
 
 ## Where to find me
 
@@ -34,12 +33,11 @@ I enjoy designing and building software that is meaning- and useful to the world
 
 Here are a few artists I listen to a lot at the moment:
 
-- [Ren](https://genius.com/artists/Ren)
-- [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
-- [Grandson](https://genius.com/artists/Grandson)
-- [Arden Jones](https://genius.com/artists/Arden-jones)
-- [Dermot Kennedy](https://genius.com/artists/Dermot-kennedy)
+- [Giant Rooks](https://genius.com/artists/Giant-rooks)
 - [One Hope](https://genius.com/artists/One-hope)
+- [Dermot Kennedy](https://genius.com/artists/Dermot-kennedy)
+- [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
+- [Ren](https://genius.com/artists/Ren)
 
 <!--work:
 

@@ -16,7 +16,7 @@ I enjoy designing and building software that is meaning- and useful to the world
 
 ## What I do <!--work:outside of work/work-->
 
-- [<img alt="" src="https://admin.furryli.st/icon-32.webp" width="20" height="20"> furryli.st](https://github.com/strideynet/bsky-furry-feed): bluesky custom feeds for furries
+- [<img alt="" src="https://admin.furryli.st/icon-32.webp" width="20" height="20"> furryli.st](https://github.com/strideynet/bsky-furry-feed): bluesky custom feeds for furries, serving over 65k furs
 - [<img alt="" src="https://pwurple.app/favicon.png" width="20" height="20"> pwurple.app](https://gitlab.com/codingpaws/pwurple/): live-streaming revenue & chat analytics
 
 ## Where to find me
@@ -38,6 +38,13 @@ Here are a few artists I listen to a lot at the moment:
 - [Dermot Kennedy](https://genius.com/artists/Dermot-kennedy)
 - [Chri\$tian Gate\$](https://genius.com/artists/Chri-tian-gate)
 - [Ren](https://genius.com/artists/Ren)
+
+## What I watch
+
+I watch a lot of YouTube videos and Twitch streams. Recently, I've also started watching shows on Netflix, my favorites so far:
+
+- Blacklist
+- Suits
 
 <!--work:
 
